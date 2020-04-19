@@ -1,7 +1,8 @@
 package com.liuxi.test;
 
 public class HelloWorld {
-    public void main(String[] args) {
-        System.out.println("HelloWorld!");
+    public static void main(String[] args) {
+        // TODO Auto-generated method stub
+        System.out.println("left");
     }
 }
